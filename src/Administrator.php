@@ -1,6 +1,6 @@
 <?php
 
-namespace Anorgan\Onfleet;
+namespace Ark\Onfleet;
 
 /**
  * Class Administrator

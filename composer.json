@@ -1,5 +1,5 @@
 {
-  "name": "anorgan/onfleet-client",
+  "name": "ark/onfleet",
   "description": "Onfleet API client",
   "keywords": ["Onfleet", "Client", "API"],
   "minimum-stability": "stable",
@@ -9,12 +9,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "Anorgan\\Onfleet\\": "src/"
+      "Ark\\Onfleet\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Anorgan\\Onfleet\\Tests\\": "tests/"
+      "Ark\\Onfleet\\Tests\\": "tests/"
     }
   },
   "require": {
